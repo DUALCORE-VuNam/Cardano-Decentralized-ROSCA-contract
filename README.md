@@ -1,2 +1,2 @@
----
+--
 ## ✅ * Repository Name: `SAMPLE-CARDANO`

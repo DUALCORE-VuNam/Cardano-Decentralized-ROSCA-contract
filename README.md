@@ -1,1 +1,1 @@
-## ✅ 3. Repository Name: `SAMPLE-CARDANO`
+## ✅ * Repository Name: `SAMPLE-CARDANO`

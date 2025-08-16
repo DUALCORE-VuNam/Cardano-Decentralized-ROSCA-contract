@@ -1,5 +1,5 @@
 ---
-## ✅ * Repository Name: `Cardano-Decentralized-ROSCA-contract`
+## ✅ Repository Name: `Cardano-Decentralized-ROSCA-contract`
 
 # `README.md` Content:
 ```markdown

@@ -2,12 +2,12 @@
 ## ✅ * Repository Name: `Cardano-Decentralized-ROSCA-contract`
 
 # `README.md` Content:
-
+```markdown
 # Catalyst ROSCA Smart Contracts
 
 This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp. These contracts provide the power for campaign creation, the main structure of the contract, and the tools used to complete the project.
 
-## 🧠 Smart Contract Highlights
+## 💎 Smart Contract Highlights
 - Automated Fund Rotation
 - Collateral & Risk Sharing
 - On-chain Transparency
@@ -29,9 +29,4 @@ git clone https://github.com/DUALCORE-VuNam/Cardano-Decentralized-ROSCA-contract
 cd Cardano-Decentralized-ROSCA-contract
 
 
-## 💎 Highlights:
-
-## 📚 Included:
-
-## 🛠️ Tools:
 

@@ -24,6 +24,7 @@ This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp
 - [Marlowe_Playground](https://playground.marlowe-lang.org/#/haskell) for manual testing
   
 ## 📦 Installation
+
 ```bash
 git clone https://github.com/DUALCORE-VuNam/Cardano-Decentralized-ROSCA-contract.git
 cd Cardano-Decentralized-ROSCA-contract

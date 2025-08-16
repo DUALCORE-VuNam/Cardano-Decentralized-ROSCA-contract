@@ -5,7 +5,7 @@
 
 # Catalyst ROSCA Smart Contracts
 
-This repository contains the smart contracts for the Catalyst ROSCA DApp. The contracts power campaign creation, milestone disbursement, and secure refund logic.
+This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp. These contracts provide the power for campaign creation, the main structure of the contract, and the tools used to complete the project.
 
 ## 🧠 Smart Contract Highlights
 - Automated Fund Rotation

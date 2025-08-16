@@ -20,7 +20,7 @@ This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp
 ## 🛠️ Tools
 - [Haskell](https://github.com/input-output-hk/haskell.nix)
 - [Lucid](https://github.com/spacebudz/lucid) for manual testing
-- [Aiken](https://aiken-lang.org/) *(optional for newer smart contract syntax)*
+- [Aiken](https://github.com/aiken-lang) *(optional for newer smart contract syntax)*
 - [Cardano CLI](https://docs.cardano.org/) 
 - [Marlowe_Playground](https://playground.marlowe-lang.org/#/haskell) for manual testing
   

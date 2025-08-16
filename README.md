@@ -18,6 +18,7 @@ This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp
 - `Milestone.sh`: Controls milestone payout
 
 ## 🛠️ Tools
+- [Haskell](https://github.com/input-output-hk/haskell.nix)
 - [Lucid](https://github.com/spacebudz/lucid) for manual testing
 - [Aiken](https://aiken-lang.org/) *(optional for newer smart contract syntax)*
 - [Cardano CLI](https://docs.cardano.org/) 

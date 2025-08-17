@@ -1,7 +1,12 @@
 ### 🌟 DETAILED MILESTONES ROSCA-SC: 
 ```markdown
-## ✅ Milestone 1:
-## ✅ Milestone 2:
-## ✅ Milestone 3:
-## ✅ Milestone 4:
+## ✅ Milestone 1: Research and design the basic platform of the ROSCA system
+- Update later ...
+## ✅ Milestone 2: Research participant roles to build user portraits
+- Update later ...
+## ✅ Milestone 3: Research real-life scenarios and solutions when applied to smart contracts and all possible risk scenarios on the contract
+- Update later ...
+## ✅ Milestone 4: Complete the security policy for the platform as well as users, the integrity of the contract structure and UX/UI design
+- Update later ...
 ## ✅ FINAL PROJECT REPORT:
+- Update later ...

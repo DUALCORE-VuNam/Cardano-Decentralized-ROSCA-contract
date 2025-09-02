@@ -1,6 +1,6 @@
 ---
 ## ✅ Repository Name: `Cardano-Decentralized-ROSCA-contract`
-
+## ✅ Link Info Proposal: `https://dualcore-team.gitbook.io/rosca-sc-f14`
 # `README.md` Content:
 ```markdown
 # Catalyst ROSCA Smart Contracts

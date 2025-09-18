@@ -2,6 +2,7 @@
 ## ✅ Repository Name: `Cardano-Decentralized-ROSCA-contract`
 ## ✅ Link Info Proposal: `https://dualcore-team.gitbook.io/rosca-sc-f14`
 ## ✅ Introduction Video: `https://www.youtube.com/watch?v=YLXq5LgvfTc`
+## ✅ Financial Reporting Document Of a ROSCA Life Cycle With a Relative Number of Users: `https://drive.google.com/file/d/1DAkp0UZGCXImuq0SD-a8iUpruzUaIZnS/view?usp=sharing`
 # `README.md` Content:
 ```markdown
 # Catalyst ROSCA Smart Contracts

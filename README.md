@@ -18,7 +18,7 @@ This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp
 ## 📚 Contracts Included
 - `ROSCA-SC.hs`: Core contract logic
 - `Milestone.sh`: Controls milestone payout
-
+- `Frontend.web`: User interface basic
 ## 🛠️ Tools
 - [Haskell](https://github.com/input-output-hk/haskell.nix)
 - [Lucid](https://github.com/spacebudz/lucid) for manual testing

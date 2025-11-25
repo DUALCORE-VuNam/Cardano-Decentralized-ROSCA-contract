@@ -1,12 +1,12 @@
 ### 🌟 DETAILED MILESTONES ROSCA-SC: 
 ```markdown
-## ✅ Milestone 1: Research and design the basic platform of the ROSCA system.(2-months)
+## ✅ Milestone 1: System Architecture & Smart Contract Foundation (1 months).
 - Update later ...
-## ✅ Milestone 2: Research participant roles to build user portraits.(2-months)
+## ✅ Milestone 2: User Behavior Study & Deploy Smartcontact and Simulation ROSCA Group Prototype (1.5 months).
 - Update later ...
-## ✅ Milestone 3: Research real-life scenarios and solutions when applied to smart contracts and all possible risk scenarios on the contract.(2-months)
+## ✅ Milestone 3: Security Audit & Chính sách bảo mật & Khả năng mở rộng (1.5 months).
 - Update later ...
-## ✅ Milestone 4: Complete the security policy for the platform as well as users, the integrity of the contract structure and UX/UI design.(2-months)
+## ✅ Milestone 4: Bug reporting & Feedback surveys - Final Reporting (2 months).
 - Update later ...
 ## ✅ FINAL PROJECT REPORT:
 - Update later ...

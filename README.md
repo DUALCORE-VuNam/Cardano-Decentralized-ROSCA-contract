@@ -1,8 +1,9 @@
 ---
 ## ✅ Repository Name: `Cardano-Decentralized-ROSCA-contract`
-## ✅ Link Info Proposal: `https://dualcore-team.gitbook.io/rosca-sc-f14`
+## ✅ Link Info Proposal: `https://dualcore-vunam.gitbook.io/rosca-sc-dualcore-team`
 ## ✅ Introduction Video: `https://www.youtube.com/watch?v=YLXq5LgvfTc`
 ## ✅ Financial Reporting Document Of a ROSCA Life Cycle With a Relative Number of Users: `https://drive.google.com/file/d/1DAkp0UZGCXImuq0SD-a8iUpruzUaIZnS/view?usp=sharing`
+## ✅ Whitepaper ROSCA 1.0: `https://dualcore-vunam.gitbook.io/rosca-sc-dualcore-team/summary/rosca-whitepaper-1.0`
 # `README.md` Content:
 ```markdown
 # Catalyst ROSCA Smart Contracts
@@ -26,7 +27,6 @@ This repository contains the Haskell smart contracts for the Catalyst ROSCA DApp
 - [Cardano CLI](https://docs.cardano.org/) 
 - [Marlowe_Playground](https://playground.marlowe-lang.org/#/haskell) for manual testing
   
-## 📦 Installation
 
 ```bash
 git clone https://github.com/DUALCORE-VuNam/Cardano-Decentralized-ROSCA-contract.git
